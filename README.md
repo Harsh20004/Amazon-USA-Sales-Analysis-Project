@@ -12,7 +12,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![ERD Scratch](erd.png)
+![ERD](erd.png)
 ## **Database Setup & Design**
 
 ### **Schema Structure**
